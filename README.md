@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chabss1
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... web programming
+- 👀 I’m interested in game development
+- 🌱 I’m currently working on my 2nd game
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... chavezsherwin11@gmail.com
 
