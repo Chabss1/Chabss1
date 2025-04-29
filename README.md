@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chabss1
+- 👋 Hi, I’m @Chabss
 - 👀 I’m interested in game development
 - 🌱 I’m currently working on my 2nd game
 - 💞️ I’m looking to collaborate on ...
