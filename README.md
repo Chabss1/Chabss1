@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chabss
 - 👀 I’m interested in game development
 - 🌱 I’m currently working on my dream game
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on gamedev
 - 📫 How to reach me ... chavezsherwin11@gmail.com
 
 <!---
